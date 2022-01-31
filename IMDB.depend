@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1595276171 source:c:\users\user\desktop\imdb2\imdb\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<string>
+	<sstream>
+	<array>
+	<math.h>
+	<iomanip>
+	<algorithm>
+	<bits/stdc++.h>
+	<conio.h>
+	<windows.h>
+
+1595318556 source:c:\users\rooz\desktop\imdb2\imdb2\imdb\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<string>
+	<sstream>
+	<array>
+	<math.h>
+	<iomanip>
+	<algorithm>
+	<bits/stdc++.h>
+	<conio.h>
+
+1595341863 source:c:\users\user\desktop\imdb\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<string>
+	<sstream>
+	<array>
+	<math.h>
+	<iomanip>
+	<algorithm>
+	<bits/stdc++.h>
+	<conio.h>
+
+1595342393 source:c:\users\user\desktop\documentz\term2\mabani bn\cpproject\imdb\main.cpp
+	<iostream>
+	<fstream>
+	<string.h>
+	<string>
+	<sstream>
+	<array>
+	<math.h>
+	<iomanip>
+	<algorithm>
+	<bits/stdc++.h>
+	<conio.h>
+
